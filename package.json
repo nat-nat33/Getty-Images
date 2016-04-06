@@ -1,0 +1,24 @@
+{
+  "name": "gettimages",
+  "version": "1.0.0",
+  "description": "API XHR practice with Getty Images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nat-nat33/Getty-Images.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nat-nat33/Getty-Images/issues"
+  },
+  "homepage": "https://github.com/nat-nat33/Getty-Images#readme",
+  "devDependencies": {
+    "browser-sync": "^2.11.2",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.2.0"
+  }
+}

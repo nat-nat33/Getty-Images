@@ -1,0 +1,24 @@
+body{
+  background-color: #353634;
+}
+
+#header {
+  text-align: center;
+  font-family: 'Over the Rainbow';
+  color: #FFC6A5;
+}
+
+.pic {
+  display: inline-block;
+  padding: 10px;
+  text-align: center;
+  h1{
+    display: none;
+
+    &:hover{
+      display: block;
+      color: yellow;
+    }
+  }
+}
+
